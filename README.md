@@ -1,0 +1,2 @@
+# multi-view_images_data
+利用Blender渲染的obj模型的多视角图像
