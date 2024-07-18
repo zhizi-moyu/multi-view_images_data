@@ -1,0 +1,39 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 594,
+  "file_identifier": "https://github.com/Gardenia33/obj_for_blender/blob/main/objfile_42.obj",
+  "file_size": 15562,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 2,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "Gardenia33",
+    "github_repo": "obj_for_blender"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 396,
+  "random_color": null,
+  "save_uid": "objfile_42",
+  "scene_size": {
+    "bbox_max": [
+      0.800000011920929,
+      0.0,
+      0.44999998807907104
+    ],
+    "bbox_min": [
+      -0.800000011920929,
+      -0.800000011920929,
+      -3.4969112050475815e-08
+    ]
+  },
+  "sha256": "7d1c9716fe6f983cc6db85ab3ee17dd57cd6d01dc5f93fd591ced3deb28089f1",
+  "shape_key_count": 0,
+  "vert_count": 200
+}
