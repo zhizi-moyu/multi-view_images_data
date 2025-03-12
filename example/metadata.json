@@ -1,0 +1,39 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 11172,
+  "file_identifier": "https://github.com/zhizi-moyu/obj_for_blender/blob/main/objfile_17.obj",
+  "file_size": 345444,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 4,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "zhizi-moyu",
+    "github_repo": "obj_for_blender"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 7448,
+  "random_color": null,
+  "save_uid": "objfile_17",
+  "scene_size": {
+    "bbox_max": [
+      60.0,
+      46.000003814697266,
+      46.000003814697266
+    ],
+    "bbox_min": [
+      -60.0,
+      -46.000003814697266,
+      -46.000003814697266
+    ]
+  },
+  "sha256": "155369a89c7ca32db66a172d9585df1259bbbe7f01f679fd778e1e55551d0998",
+  "shape_key_count": 0,
+  "vert_count": 3692
+}
